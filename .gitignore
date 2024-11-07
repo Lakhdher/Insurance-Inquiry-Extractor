@@ -1,0 +1,6 @@
+.env
+.files
+.chainlit
+db
+data
+task2.ipynb
