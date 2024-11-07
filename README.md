@@ -1,6 +1,6 @@
 ## Background Info
 
-YachtSicher GmbH has approached Lucid Labs with a specific goal: they want to leverage generative AI to increase operational efficiency and enhance customer experience. At Lucid Labs, we figured out that one interesting generative AI use case is about handling incoming insurance requests. It is common for YachtSicher GmbH that they get emails with a yacht model number, etc. (see the Email examples below). Their staff then have to go and search the details for the yacht manually and create a quote. As the AI Engineer, you've been tasked with developing a PoC / prototype that uses generative AI to help speed up the process.
+YachtSicher GmbH has approached Lucid Labs with a specific goal: they want to leverage generative AI to increase operational efficiency and enhance customer experience. We figured out that one interesting generative AI use case is about handling incoming insurance requests. It is common for YachtSicher GmbH that they get emails with a yacht model number, etc. (see the Email examples below). Their staff then have to go and search the details for the yacht manually and create a quote. As the AI Engineer, you've been tasked with developing a PoC / prototype that uses generative AI to help speed up the process.
 
 ## Objective
 
